@@ -1,0 +1,14 @@
+/Users/ivanmccoy/Programming Languages/Homework/bin/Debug/net8.0/Homework
+/Users/ivanmccoy/Programming Languages/Homework/bin/Debug/net8.0/Homework.deps.json
+/Users/ivanmccoy/Programming Languages/Homework/bin/Debug/net8.0/Homework.runtimeconfig.json
+/Users/ivanmccoy/Programming Languages/Homework/bin/Debug/net8.0/Homework.dll
+/Users/ivanmccoy/Programming Languages/Homework/bin/Debug/net8.0/Homework.pdb
+/Users/ivanmccoy/Programming Languages/Homework/obj/Debug/net8.0/Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanmccoy/Programming Languages/Homework/obj/Debug/net8.0/Homework.AssemblyInfoInputs.cache
+/Users/ivanmccoy/Programming Languages/Homework/obj/Debug/net8.0/Homework.AssemblyInfo.cs
+/Users/ivanmccoy/Programming Languages/Homework/obj/Debug/net8.0/Homework.csproj.CoreCompileInputs.cache
+/Users/ivanmccoy/Programming Languages/Homework/obj/Debug/net8.0/Homework.dll
+/Users/ivanmccoy/Programming Languages/Homework/obj/Debug/net8.0/refint/Homework.dll
+/Users/ivanmccoy/Programming Languages/Homework/obj/Debug/net8.0/Homework.pdb
+/Users/ivanmccoy/Programming Languages/Homework/obj/Debug/net8.0/Homework.genruntimeconfig.cache
+/Users/ivanmccoy/Programming Languages/Homework/obj/Debug/net8.0/ref/Homework.dll
